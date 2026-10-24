@@ -1,0 +1,3 @@
+LICEO Aula 2026-10-24-r3-autonomo
+Archivo principal: index.html
+Sin dependencias externas para mostrar el diseño.
